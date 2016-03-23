@@ -1,3 +1,6 @@
+"""
+This code from from lightweight django textbook
+"""
 import sys
 from django.conf import settings
 
